@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @JacobDey
 - 👀 I’m interested in ...
-Code!
-- 🌱 I’m currently learning ...
-GML
+  work in software!
 - 🔗 [LinkedIn ...](https://www.linkedin.com/in/jacob-dey-937773a8/)
-- 📫 How to reach me ...
-jacob.dey98@gmail.com
+- 📫 jacob.dey98@gmail.com
